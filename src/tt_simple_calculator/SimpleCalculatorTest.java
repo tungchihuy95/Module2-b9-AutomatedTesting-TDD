@@ -1,11 +1,10 @@
-package simple_calculator;
+package tt_simple_calculator;
 
 import org.junit.Test;
 import org.junit.jupiter.api.DisplayName;
 
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.jupiter.api.Assertions.*;
 
 public class SimpleCalculatorTest {
 

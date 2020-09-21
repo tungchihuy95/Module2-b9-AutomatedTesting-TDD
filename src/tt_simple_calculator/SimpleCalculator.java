@@ -1,4 +1,4 @@
-package simple_calculator;
+package tt_simple_calculator;
 
 public class SimpleCalculator {
     public static int add(int first, int second){
